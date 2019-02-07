@@ -1,0 +1,227 @@
+
+body {
+  background-image: url("../images/c.jpg");
+  background-size: 100%;
+  
+}
+.main{
+width: 1200px;
+margin:0px auto;
+margin-top: 10px
+
+}
+
+.main1{
+width: 940px;
+float: left;
+
+
+}
+.main2{
+width:250px;
+float: right;
+margin-left: 10px
+
+}
+.clear{
+clear: both;
+}
+.main1row1{
+background:rgba(0,0,0,0.4);
+position: relative;
+height: 50px
+}
+.main1row2{
+background:rgba(0,0,0,0.4);
+height: 60px;
+margin-top: 30px
+
+}
+.main2 img{
+	width: 250px;
+	height: 150px;
+}
+.main1row1 input{
+	font-size: 20px;
+	position:absolute;
+	top: 9px;
+	right:24px;
+}
+.main1row2 div{
+	float:left;
+	margin-left: 10px;
+	color:black;
+    font-size: 40px;
+}
+.clear{
+clear: both;
+}
+.main1row2 {
+	padding-top: 10px
+}
+.main1  a{
+	width: 140px;
+height: 40px;
+text-decoration: none;
+color:white
+}
+
+.main1 a:hover{
+	text-decoration: none;
+	font-size: 50px;
+    background: rgb(0,0,60);
+	padding: 10px
+}
+
+.SA{
+	margin-top: 20px;
+	height: 500px;
+	position: relative;
+
+	
+}
+
+.firstSA{
+	width: 1000px;
+	background: (0,0,0,0.4);
+	float: left;
+	height: 500px
+}
+
+.secondSA{
+	width: 190px;
+	margin-left: 10px;
+	float: right;
+	height: 500px;
+	position: absolute;
+	top: 0%;
+	right: 0%;
+
+
+}
+.clear{
+	clear: both;
+}
+.secondSA a{
+	color: black;
+	font-family: fantasy;
+	text-decoration: none;
+}
+
+.secondSA a:hover{
+background: white;
+
+
+}
+.firstSAleft{
+	width: 700px;
+/*		background: black;
+*/	float: left;
+height: 500px
+}
+.firstSAright{
+	width: 300px;
+	float: left;
+/*	background: yellow;
+*/	height: 500px;
+
+}
+.clear{
+clear: both;
+}
+.single{
+	width: 90%;
+background:rgba(0,0,0,0.4);
+color: white;
+	margin:0px auto;
+
+}
+.single1{
+	height: 130px;
+	margin:10px;
+	font-size: 40px;
+
+
+}
+.single2{
+	height:310px;
+		margin:10px;
+		padding: 10px;
+
+}
+
+.single2 input{
+	font-size: 18px;
+	margin-top:30px;
+}
+
+.firstSAleftrow1{
+	width:700px;
+/*	background: red;
+*/    height: 250px;
+
+}
+.firstSAleftrow2{
+	width:700px;
+/*	background: gray;
+*/	height: 250px;	
+position: relative;
+}
+
+.firstSAleftrow1 div{
+	width:220px;
+    float: left;
+/*    border: 1px solid black;
+*/    overflow: hidden;
+    height: 230px;
+    margin-left: 10px;
+    margin-top: 10px;
+ 
+   
+   
+ }
+.firstSAleftrow2 div{
+	width:220px;
+    float: left;
+  
+    overflow: hidden;
+    height: 230px;
+    margin-left: 10px;
+    margin-top: 10px;
+  
+
+    
+}
+.clear{
+	clear: both;
+}
+
+.singlediv{
+position: absolute;
+top: 0px;
+left: 0px
+}
+
+.firstSAleft img{
+	width: 230px;
+	height: 230px;
+}
+.single2 a{
+	font-size: 40px;
+	font-family: unset;
+	text-decoration:none;
+	color:white;
+}
+
+.single1 a{
+ text-decoration: none;
+	 color:white;
+}
+.single1 a:hover{
+ background: rgb(0,0,60); 
+ font-size: 42px;
+
+
+
+
+}
